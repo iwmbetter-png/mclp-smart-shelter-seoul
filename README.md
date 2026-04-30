@@ -5,12 +5,14 @@
 > 소방안전 빅데이터 플랫폼 데이터를 기반으로 폭염 취약성과 유동인구를 통합 분석하여,  
 > 서울시 스마트 버스쉘터(지능형 버스정류장)의 최적 신규 설치 입지를 도출한 프로젝트입니다.
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-0.14-green)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-1.3-orange?logo=scikit-learn)
-![Folium](https://img.shields.io/badge/Folium-0.15-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+## 📄 문서
 
+| 파일 | 설명 |
+|------|------|
+| [📊 요약본](docs/소방안전_기획서요약.pdf) | 요약본 슬라이드 |
+| [📋 전체 기획서](docs/스마트%20버스정류장%20최적%20입지%20선정.pdf) | 프로젝트 분석 결과물 |
+
+![스마트쉘터](docs/스마트쉘터.png)
 ---
 
 ## 📌 프로젝트 개요
